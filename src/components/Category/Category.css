@@ -1,0 +1,18 @@
+.category{
+    margin:10px;
+    display: grid;
+    outline: 2px dotted black;
+    width: 300px;
+}
+
+.ItemsList{
+    margin:10px 10px 10px 10px;
+    text-align: left;
+    display: grid;
+    
+}
+
+.categoryTitle{
+    font-family : 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
